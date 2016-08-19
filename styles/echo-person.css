@@ -1,0 +1,179 @@
+.shortcut {
+    padding-top: 0.17rem;
+    position: relative;
+}
+
+.shortcut-list {
+    width: 3.84rem;
+    height: 0.8rem;
+    padding-bottom: 0.12rem;
+    margin: 0 auto;
+}
+
+.shortcut-list>li {
+    float: left;
+    font-size: 0.26rem;
+    text-align: center;
+    line-height: 0.68rem;
+    width:1.28rem;
+}
+
+.shortcut-list .active {
+    color: #5ec21e;
+}
+
+.shortcut:before {
+    content: "";
+    width: 0.4rem;
+    height: 0.4rem;
+    background: url("../images/echo-person/shortcut-left.png");
+    position: absolute;
+    top: 0.27rem;
+    left: 0.3rem;
+    background-size: 100% auto;
+    display: block;
+}
+
+.shortcut:after {
+    content: "";
+    width: 0.6rem;
+    height: 0.6rem;
+    background: url("../images/echo-person/shortcut-right.png");
+    background-size: 100% auto;
+    position: absolute;
+    top: 0.17rem;
+    right: 0.2rem;
+}
+
+.content {
+    background-color: #e6ecef;
+    padding-top: 0.001rem;
+    padding-bottom: 1.2rem;
+}
+
+.content-list>li {
+    margin-top: 0.22rem;
+    padding-top: 0.24rem;
+    background-color: #ffffff;
+
+}
+
+.content-list>li .person-title>div {
+    float: left;
+}
+
+.content-list>li .person-title .person-title-icon {
+    width: 0.68rem;
+    height: 0.68rem;
+    margin-left: 0.26rem;
+}
+
+.content-list>li .person-title .person-title-icon>img {
+    width: 100%;
+    display: block;
+}
+
+.content-list>li .person-title .person-name {
+    font-size: 0.26rem;
+    color: #666666;
+    margin-top: 0.2rem;
+    margin-left: 0.28rem;
+    width: 2.62rem;
+}
+
+.content-list>li .person-title .person-care {
+    font-size: 0.2rem;
+    color: #878787;
+    margin-top: 0.2rem;
+    float: right;
+    margin-right: 0.18rem;
+
+}
+
+.content-list>li .person-intro {
+    font-size: 0.26rem;
+    color: #999999;
+    padding-top: 0.36rem;
+    padding-left: 0.2rem;
+    padding-right: 0.2rem;
+    padding-bottom: 0.32rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.content-list .music-list>li {
+    padding-top: 0.36rem;
+    padding-bottom: 0.27rem;
+}
+
+.content-list .music-list>li>div {
+    float: left;
+}
+
+.content-list .music-list .music-icon {
+    width: 1rem;
+    height: 1rem;
+    margin-left: 0.2rem;
+}
+
+.content-list .music-list .music-icon>img {
+    width: 100%;
+    display: block;
+}
+
+.content-list .music-list .music-text {
+    font-size: 0.26rem;
+    padding-left: 0.24rem;
+    width: 3.68rem;
+
+}
+
+.content-list .music-list .music-intro {
+    padding-top: 0.2rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #9b9b9b;
+}
+
+.content-list .music-list .music-name {
+    padding-top: 0.12rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    color: #878787;
+
+}
+
+.content-list .music-list .music-like {
+    color: #a5a5a5;
+    font-size: 0.16rem;
+    float: right;
+    margin-right: 0.28rem;
+}
+
+.content-list .music-list .music-like .music-heart {
+    width: 0.3rem;
+    height: 0.27rem;
+    margin: 0 auto;
+    margin-top: 0.18rem;
+}
+
+.content-list .music-list .music-like .music-heart>img {
+    width: 100%;
+    display: block;
+}
+
+.content-list .music-list .music-like .music-num {
+    margin-top: 0.12rem;
+}
+
+.content .content-list .spacer {
+    margin: 0;
+    padding: 0;
+    width: 4.8rem;
+    height: 1px;
+    background-color: #e4e4e4;
+    margin-left: 1.4rem;
+}

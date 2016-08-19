@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>echo-hot</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script src="../scripts/init-base-font-size.js"></script>
+    <link rel="stylesheet" href="../styles/common.css">
+    <link rel="stylesheet" href="../styles/footer.css">
+    <link rel="stylesheet" href="../styles/echo-hot.css">
+</head>
+<body>
+<div class="shortcut">
+    <ul class="shortcut-list clearfix">
+        <li>推荐</li>
+        <li class="active">热门</li>
+        <li>人</li>
+    </ul>
+</div>
+<div class="content">
+    <div class="hot-title">今日最热</div>
+    <ul class="content-list clearfix">
+        <script id="content-template" type="text/x-handlebars-template">
+            {{#each list}}
+            <li>
+                <div class="hot-image"><img src={{src}}></div>
+                <div class="hot-text">{{text}}</div>
+                <div class="hot-name">{{name}}</div>
+            </li>
+            {{/each}}
+        </script>
+    </ul>
+
+</div>
+<div class="footer">
+    <ul class="footer-list clearfix">
+        <li class="tab-dynamic">
+            <a href="#" class="text">动态</a>
+        </li>
+        <li class="tab-music active">
+            <a href="#" class="text">回声</a>
+        </li>
+        <li class="tab-channel">
+            <a href="#" class="text">频道</a>
+        </li>
+        <li class="tab-mine">
+            <a href="#" class="text">我的</a>
+        </li>
+    </ul>
+
+</div>
+<script src="../scripts/jquery-1.9.1.min.js"></script>
+<script src="../scripts/footer.js"></script>
+<script src="../scripts/handlebars/handlebars.js"></script>
+<script src="../scripts/handlebars-helper.js"></script>
+<script src="../scripts/echo-hot.js"></script>
+</body>
+</html>

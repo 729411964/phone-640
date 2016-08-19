@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "汽车车品1",
+      "images": [
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png"
+      ]
+    },
+    {
+      "groupTitle": "汽车车品2",
+      "images": [
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png"
+      ]
+    },
+    {
+      "groupTitle": "汽车车品3",
+      "images": [
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png",
+        "../images/taobao/image16.png"
+      ]
+    }
+  ]
+}

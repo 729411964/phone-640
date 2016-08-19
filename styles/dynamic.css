@@ -1,0 +1,325 @@
+
+
+body {
+    background-color: #e1e2e6;
+}
+
+.shortcut {
+    background-color: #ffffff;
+    height: 1rem;
+    position: relative;
+    padding-top: 0.3rem;
+}
+
+.shortcut .left {
+    position: absolute;
+    left: 0.3rem;
+    top: 0.3rem;
+    width: 0.41rem;
+    height: 0.4rem;
+    background: url("../images/dynamic/left.png");
+    background-size: 100% auto;
+
+}
+
+.shortcut .logo {
+    width: 1.1rem;
+    height: 0.41rem;
+    margin: 0 auto;
+    background: url("../images/dynamic/logo.png");
+    background-size: 100% auto;
+
+}
+
+.shortcut .right {
+    position: absolute;
+    right: 0.2rem;
+    top: 0.2rem;
+    width: 0.61rem;
+    height: 0.61rem;
+    background: url("../images/dynamic/right.png");
+    background-size: 100% auto;
+
+}
+
+.remind {
+    padding: 0 0.14rem;
+    padding-top: 0.18rem;
+
+}
+
+.remind-list>li {
+    background-color: #ffffff;
+    margin-bottom: 0.2rem;
+    padding: 0.02rem 0.02rem;
+    border-radius: 0.05rem;
+    height: 1.46rem;
+    padding-top: 0.14rem;
+    padding-left: 0.22rem;
+}
+
+.remind-list .icon {
+    width: 1.2rem;
+    float: left;
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.remind-list .icon>img {
+    width: 100%;
+    display: block;
+}
+
+.remind-list .text {
+    float: left;
+    padding-left: 0.22rem;
+    padding-top: 0.3rem;
+    vertical-align: middle;
+    font-size: 0.24rem;
+    color: #e79714;
+    width: 55%;
+}
+
+.remind-list .text>div {
+    padding-bottom: 0.12rem;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+}
+
+.remind-list .right {
+    float: right;
+    margin-right: 0.22rem;
+    margin-top: 0.5rem;
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 0.24rem;
+    color: #e79714;
+}
+
+.details {
+    padding: 0 0.14rem;
+    padding-bottom: 1.2rem;
+}
+
+.details-list>li {
+    background-color: #ffffff;
+    margin-bottom: 0.2rem;
+    border-radius: 0.05rem;
+}
+
+.details-list .title {
+    height:1rem ;
+    border-bottom: 0.02rem solid #f4f4f4;
+}
+
+.details-list .title .icon {
+    width: 0.6rem;
+    height: 0.6rem;
+    float: left;
+    margin-left: 0.24rem;
+    margin-top: 0.16rem;
+    margin-right: 0.16rem;
+    background: url("../images/dynamic/details-icon.png");
+    background-size: 100% auto;
+}
+
+.details-list .title .text {
+    float: left;
+
+}
+
+.details-list .title .name {
+    margin-top: 0.24rem;
+    font-size: 0.24rem;
+    color: #5fd059;
+    position: relative;
+    padding-left: 0.3rem;
+}
+
+.details-list .title .name:before {
+    content: "";
+    display: block;
+    width: 0.26rem;
+    height: 0.2rem;
+    position: absolute;
+    left: 0;
+    top: 0;
+    background: url("../images/dynamic/crown.png");
+    background-size: 100% auto;
+}
+
+.details-list .title .time {
+    font-size: 0.2rem;
+    color: #949494;
+    padding-top: 0.06rem;
+}
+
+.details-list .content .video {
+    width: 1.2rem;
+    height: 1.2rem;
+    background:url("../images/dynamic/video.png");
+    background-size: 100% auto;
+    float: left;
+    margin-left: 0.24rem;
+    margin-right: 0.24rem;
+    margin-top: 0.22rem;
+
+}
+
+.details-list .content .video-text {
+    float: left;
+}
+
+.details-list .content .video-title {
+    font-size: 0.26rem;
+    color: #5fd059;
+    margin-top: 0.3rem;
+}
+
+.details-list .content .video-time {
+    color: #949494;
+    font-size: 0.16rem;
+    margin-top: 0.18rem;
+    padding-left: 0.25rem;
+    position: relative;
+}
+
+.details-list .content .video-time:before {
+    content: "";
+    display: block;
+    width: 0.2rem;
+    height: 0.2rem;
+    background: url("../images/dynamic/time.png");
+    background-size: 100% auto;
+    position: absolute;
+    left: 0;
+    top: -0.03rem;
+}
+
+.details-list .content .pin-dao-name {
+    float: left;
+    font-size: 0.22rem;
+    color: #4873b0;
+    margin-right: 0.625rem;
+    margin-top: 0.26rem;
+}
+
+.details-list .content .pin-dao {
+    float: left;
+    font-size: 0.22rem;
+    color: #a0a0a0;
+    margin-top: 0.26rem;
+}
+
+.details-list .discuss {
+    border: 0.02rem solid #f4f4f4;
+    margin-top: 0.18rem;
+}
+
+.details-list .discuss>li{
+    float: left;
+    color: #a4a4a4;
+    width: 33.333%;
+    font-size: 0.22rem;
+    line-height: 0.68rem;
+    text-align: center;
+}
+
+.details-list .discuss>li.comment {
+    border-left: 1px solid #f4f4f4;
+    border-right: 1px solid #f4f4f4;
+}
+
+.discuss .support-name {
+    position: relative;
+}
+.discuss .support-name:before {
+    position: absolute;
+    content: "";
+    left: -0.3rem;
+    top: 0;
+    width: 0.24rem;
+    height: 0.21rem;
+    background: url("../images/dynamic/support.png");
+    background-size: 100% auto;
+    display: block;
+}
+
+.discuss .comment-text {
+    position: relative;
+}
+.discuss .comment-text:before {
+    position: absolute;
+    content: "";
+    left: -0.3rem;
+    top: 0;
+    width: 0.21rem;
+    height: 0.21rem;
+    background: url("../images/dynamic/comment.png");
+    background-size: 100% auto;
+    display: block;
+}
+
+.discuss .rebroadcast-name {
+    position: relative;
+}
+.discuss .rebroadcast-name:before {
+    position: absolute;
+    content: "";
+    left: -0.3rem;
+    top: 0;
+    width: 0.26rem;
+    height: 0.2rem;
+    background: url("../images/dynamic/rebroadcast.png");
+    background-size: 100% auto;
+    display: block;
+}
+
+.images {
+    position: relative;
+    background-color: #fafafa;
+    padding: 0.2rem 0;
+}
+
+.images-list {
+    width: 76.47%;
+    margin: 0 auto;
+    position: relative;
+}
+
+.images-list>li {
+    float: left;
+    width: 10% ;
+    margin-left: 1%;
+}
+
+.images-list>li>img {
+    display: block;
+    width: 100%;
+}
+
+.images-list:before {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0.4rem;
+    height: 0.4rem;
+    background: url("../images/dynamic/like.png");
+    background-size: 100% auto;
+    left: -0.45rem;
+    top: 0.02rem;
+}
+
+.images:after {
+    content: "";
+    display: block;
+    position: absolute;
+    width: 0.42rem;
+    height: 0.42rem;
+    background: url("../images/dynamic/more.png");
+    background-size: 100% auto;
+    right: 0.22rem;
+    top: 0.2rem;
+}
+

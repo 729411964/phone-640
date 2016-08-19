@@ -1,0 +1,61 @@
+html {
+    background-color: #b0ffb4;
+
+}
+.content {
+    width: 100%;
+    padding-top: 0.28rem;
+}
+
+.content .btn>li>input {
+    border-radius: 0.04rem;
+    font-size: 0.28rem;
+    line-height:0.88rem;
+    width: 100%;
+    margin-top:0.28rem ;
+    icon: url("../images/ext-02/icon.png");
+}
+.content .btn {
+    width: 78.125%;
+    margin: 0 auto;
+}
+
+.content .register {
+    background-color: #55d491;
+    color: #ffffff;
+}
+
+.content .log-in {
+    color: #8c8c8c;
+    background-color: #ffffff;
+}
+
+.content .btn>li {
+    position: relative;
+}
+
+.content .icon {
+    position: absolute;
+    left: 1.4rem;
+    top: 0.6rem;
+    width: 0.41rem;
+    height: 0.32rem;
+    display: block;
+    background: url("../images/ext-02/icon.png");
+    background-size: 100% auto;
+}
+
+.content .logo {
+    margin: 0 auto;
+    margin-bottom: 2.73rem;
+    background: url("../images/ext-02/logo.png");
+    width: 2.5rem;
+    height: 1.36rem;
+    background-size: 100% auto;
+}
+
+.content .footer {
+    margin-top: 1.82rem;
+    text-align: center;
+    font-size: 0.24rem;
+}

@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "女士服装1",
+      "images": [
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png"
+      ]
+    },
+    {
+      "groupTitle": "女士服装2",
+      "images": [
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png"
+      ]
+    },
+    {
+      "groupTitle": "女士服装3",
+      "images": [
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png",
+        "../images/taobao/image2.png"
+      ]
+    }
+  ]
+}

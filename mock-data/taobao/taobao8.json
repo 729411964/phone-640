@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "日用百货1",
+      "images": [
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png"
+      ]
+    },
+    {
+      "groupTitle": "日用百货2",
+      "images": [
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png"
+      ]
+    },
+    {
+      "groupTitle": "日用百货3",
+      "images": [
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png",
+        "../images/taobao/image8.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+html {
+    height: 100%;
+}
+
+body {
+    overflow-x: hidden;
+    height: 100%;
+}
+
+.cover-page {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: gold;
+    z-index: 999;
+    padding-top: 40%;
+}
+
+.cover-page-hide{
+    display: none;
+}
+
+.header {
+    height: 0.9rem;
+    border-bottom: 1px solid #cccccc;
+    padding-top: 0.18rem;
+    position: relative;
+z-index: 99;
+    background-color: #ffffff;
+}
+
+.header .search {
+    display: block;
+    width:5.14rem ;
+    margin: 0 auto;
+    height: 0.5rem;
+    background-color: #eeeeee;
+    border-radius: 0.07rem;
+    font-size: 0.26rem;
+    padding-left: 1.0rem;
+}
+
+.header:before {
+    content: "";
+    display: block;
+    position: absolute;
+    background: url("../images/taobao/search.png");
+    background-size: 100% auto;
+    width: 0.25rem;
+    height: 0.25rem;
+    left: 1.28rem;
+    top: 0.3rem;
+}
+
+.header .side-bar-btn {
+    display: block;
+    position: absolute;
+    background: url("../images/taobao/bar.png");
+    background-size: 100% auto;
+    width: 0.5rem;
+    height: 0.5rem;
+    right: 0;
+    top: 0.2rem;
+}
+
+/*.content{*/
+    /*overflow-x: hidden;*/
+
+/*}*/
+
+.content .left-menu {
+    /*padding-top: 0.9rem;*/
+    /*padding-bottom: 1rem;*/
+    position: absolute;
+    top: 0.9rem;
+    left: 0;
+    bottom: 1rem;
+    width: 20%;
+    font-size: 0.22rem;
+    line-height: 0.96rem;
+    text-align: center;
+    /*height: 100%;*/
+    overflow-y: scroll;
+}
+
+.content .left-menu-list>li {
+    border-bottom: 1px solid #cccccc;
+    background-color: #fafafa;
+
+}
+
+.content .left-menu-list>li.active {
+    color: #fe7b3a;
+}
+
+.content .product {
+    /*padding-top: 0.9rem;*/
+    /*padding-bottom: 1rem;*/
+    width: 80%;
+    /*height: 100%;*/
+    position: absolute;
+    top: 0.9rem;
+    left: 20%;
+    bottom:1rem;
+    background-color: #eeeeee;
+    overflow-y: scroll;
+}
+
+.content .product-list>li {
+    display: none;
+}
+
+.content .product-list>li.active {
+    display: block;
+}
+.content .product-list .group-content>li {
+    float: left;
+    width: 1.66rem;
+    padding-left: 0.13rem;
+    padding-bottom: 0.13rem;
+}
+
+.content .product-list .group-content>li>img {
+    width: 100%;
+    display: block;
+}
+
+.content .product-list .group-title {
+    font-size: 0.22rem;
+    line-height: 0.64rem;
+    padding-left: 0.13rem;
+    color: #b0b0b0;
+}
+.content .product .loading {
+    position: relative;
+    height: 1.74rem;
+    /*background-color: #5ec21e;*/
+    font-size: 0.36rem;
+    line-height: 1.24rem;
+    text-align: center;
+    padding-bottom: 0.5rem;
+}
+.loading>div {
+    display: none;
+}
+
+/*.loading .up{*/
+    /*display: none;*/
+/*}*/
+
+.loading .up:before{
+    content: "";
+    display: block;
+    width: 0.7rem;
+    height: 0.65rem;
+    position: absolute;
+    left: 0.65rem;
+    top: 0.28rem;
+    background: url("../images/taobao/pull-up.png");
+    background-size: 100% auto;
+}
+
+.loading {
+    display: none;
+}
+.loading-active {
+    display: block !important;
+}
+
+.loading .down:before{
+    content: "";
+    display: block;
+    width: 0.7rem;
+    height: 0.65rem;
+    position: absolute;
+    left: 0.65rem;
+    top: 0.28rem;
+    background: url("../images/taobao/pull-down.png");
+    background-size: 100% auto;
+}
+
+.side-bar {
+    position: absolute;
+    top: 0.9rem;
+    bottom:1rem;
+    left: 20%;
+    background-color: #5ec21e;
+    width: 80%;
+    /*height: 100%;*/
+    overflow-y: hidden;
+    /*display: none;*/
+    z-index: -1;
+}
+
+.side-bar-hide {
+    -webkit-backface-visibility:hidden;
+    transition: -webkit-transform 600ms;
+    -webkit-transform: translate3d(0, 0, 0);
+    -moz-transform: translate3d(0, 0, 0);
+    -ms-transform: translate3d(0, 0, 0);
+    transform: translate3d(0, 0, 0);
+}
+
+.side-bar-show{
+    -webkit-backface-visibility:hidden;
+    -webkit-transition: -webkit-transform 600ms;
+    transition: -webkit-transform 600ms;
+    -webkit-transform: translate3d(-100%,0,0);
+    -moz-transform: translate3d(-100%,0,0);
+    -ms-transform: translate3d(-100%,0,0);
+    transform: translate3d(-100%,0,0);
+}
+
+

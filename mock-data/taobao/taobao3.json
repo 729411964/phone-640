@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "男士服装1",
+      "images": [
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png"
+      ]
+    },
+    {
+      "groupTitle": "男士服装2",
+      "images": [
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png"
+      ]
+    },
+    {
+      "groupTitle": "男士服装3",
+      "images": [
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png",
+        "../images/taobao/image3.png"
+      ]
+    }
+  ]
+}

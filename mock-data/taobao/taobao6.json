@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "手机数码1",
+      "images": [
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png"
+      ]
+    },
+    {
+      "groupTitle": "手机数码2",
+      "images": [
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png"
+      ]
+    },
+    {
+      "groupTitle": "手机数码3",
+      "images": [
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png",
+        "../images/taobao/image6.png"
+      ]
+    }
+  ]
+}

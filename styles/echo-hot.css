@@ -1,0 +1,100 @@
+.shortcut {
+    padding-top: 0.17rem;
+    position: relative;
+}
+
+.shortcut-list {
+    width: 3.84rem;
+    height: 0.8rem;
+    padding-bottom: 0.12rem;
+    margin: 0 auto;
+}
+
+.shortcut-list>li {
+    float: left;
+    font-size: 0.26rem;
+    text-align: center;
+    line-height: 0.68rem;
+    width:1.28rem;
+}
+
+.shortcut-list .active {
+    color: #5ec21e;
+}
+
+.shortcut:before {
+    content: "";
+    width: 0.4rem;
+    height: 0.4rem;
+    background: url("../images/echo-hot/shortcut-left.png");
+    position: absolute;
+    top: 0.27rem;
+    left: 0.3rem;
+    background-size: 100% auto;
+    display: block;
+}
+
+.shortcut:after {
+    content: "";
+    width: 0.6rem;
+    height: 0.6rem;
+    background: url("../images/echo-hot/shortcut-right.png");
+    background-size: 100% auto;
+    position: absolute;
+    top: 0.17rem;
+    right: 0.2rem;
+}
+
+.content {
+    background-color: #e6ecef;
+    padding-top: 0.4rem;
+    padding-bottom: 1.2rem;
+}
+
+.content .hot-title {
+    line-height: 0.8rem;
+    font-size: 0.24rem;
+    color: #d2d2d2;
+    background-color: #ffffff;
+    padding-left: 0.3rem;
+}
+
+.content-list {
+    background-color: #ffffff;
+    padding-left: 0.09rem;
+    padding-right: 0.11rem;
+}
+
+.content-list>li {
+    float: left;
+    width: 3.1rem;
+    padding-left: 0.11rem;
+    padding-right: 0.11rem;
+    padding-bottom: 0.27rem;
+}
+
+.content-list .hot-image {
+    width: 2.88rem;
+    height: 2.88rem;
+}
+
+.content-list .hot-image>img {
+    width: 100%;
+    display: block;
+}
+
+.content-list .hot-text {
+    padding-top: 0.14rem;
+    font-size: 0.26rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.content-list .hot-name {
+    padding-top: 0.12rem;
+    font-size: 0.22rem;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}

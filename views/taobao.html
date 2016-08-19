@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>taobao</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black">
+    <meta name="format-detection" content="telephone=no"/>
+    <meta name="format-detection" content="email=no"/>
+    <script src="../scripts/init-base-font-size.js"></script>
+    <link rel="stylesheet" href="../styles/common.css">
+    <link rel="stylesheet" href="../styles/footer.css">
+    <link rel="stylesheet" href="../styles/taobao.css">
+</head>
+<body>
+<div class="cover-page">
+    启动时的封面
+</div>
+<div class="header">
+    <input class="search" placeholder="寻找你喜欢的店铺">
+    <a class="side-bar-btn"></a>
+</div>
+<div class="content">
+    <div class="left-menu">
+        <ul class="left-menu-list">
+            <li class="active">热门推荐</li>
+            <li>女士服装</li>
+            <li>男士服装</li>
+            <li>时尚鞋靴</li>
+            <li>箱包配件</li>
+            <li>手机数码</li>
+            <li>妈咪宝贝</li>
+            <li>日用百货</li>
+            <li>珠宝配饰</li>
+            <li>运动户外</li>
+            <li>家电办公</li>
+            <li>美食茶酒</li>
+            <li>护肤彩妆</li>
+            <li>家装建材</li>
+            <li>家居家纺</li>
+            <li>汽车车品</li>
+            <li>花鸟文娱</li>
+            <li>生活服务</li>
+            <li>动漫游戏</li>
+        </ul>
+    </div>
+    <div class="product side-bar-hide">
+        <ul class="product-list">
+            <li class="active">
+                <script id="list-template" type="text/x-handlebars-template">
+                    <ul class="clearfix">
+                        {{#each product}}
+                        <li>
+                            <div class="group-title">{{groupTitle}}</div>
+                            <ul class="group-content clearfix">
+                                {{#each images}}
+                                <li><img src={{this}}></li>
+                                {{/each}}
+                            </ul>
+                        </li>
+                        {{/each}}
+                    </ul>
+                </script>
+            </li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+        </ul>
+        <div class="loading">
+            <div class="up">上拉继续加载</div>
+            <div class="down">pull-down加载</div>
+        </div>
+    </div>
+
+</div>
+<div class="side-bar">
+    右侧边栏
+</div>
+<div class="footer">
+    <ul class="footer-list clearfix">
+        <li class="tab-dynamic">
+            <a href="#" class="text">动态</a>
+        </li>
+        <li class="tab-music active">
+            <a href="#" class="text">回声</a>
+        </li>
+        <li class="tab-channel">
+            <a href="#" class="text">频道</a>
+        </li>
+        <li class="tab-mine">
+            <a href="#" class="text">我的</a>
+        </li>
+    </ul>
+
+</div>
+<script src="../scripts/jquery-1.9.1.min.js"></script>
+<script src="../scripts/footer.js"></script>
+<script src="../scripts/handlebars/handlebars.js"></script>
+<script src="../scripts/handlebars-helper.js"></script>
+<script src="../scripts/taobao.js"></script>
+
+</body>
+</html>

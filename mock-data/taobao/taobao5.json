@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "箱包配件1",
+      "images": [
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png"
+      ]
+    },
+    {
+      "groupTitle": "箱包配件2",
+      "images": [
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png"
+      ]
+    },
+    {
+      "groupTitle": "箱包配件3",
+      "images": [
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png",
+        "../images/taobao/image5.png"
+      ]
+    }
+  ]
+}

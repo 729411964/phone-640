@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "家居家纺1",
+      "images": [
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png"
+      ]
+    },
+    {
+      "groupTitle": "家居家纺2",
+      "images": [
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png"
+      ]
+    },
+    {
+      "groupTitle": "家居家纺3",
+      "images": [
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png",
+        "../images/taobao/image15.png"
+      ]
+    }
+  ]
+}

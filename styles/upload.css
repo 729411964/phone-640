@@ -1,0 +1,38 @@
+.content .list>li {
+    float: left;
+    text-align: center;
+    width: 30%;
+    margin-right: 5%;
+
+}
+
+.content .list>li+li+li {
+    margin-right: 0;
+
+}
+
+.content .list .text {
+    font-size: 0.26rem;
+    margin-top: 0.24rem;
+    color: #abacaa;
+}
+
+.content .list>li .icon>img{
+    width: 100%;
+}
+
+.content .list {
+    width: 88%;
+    margin: 0 auto;
+    margin-top: 1.2rem;
+}
+
+.content .title {
+    font-size: 0.32rem;
+    color: #999999;
+    margin-left: 0.48rem;
+}
+
+.content {
+    padding-top: 2.5rem;
+}

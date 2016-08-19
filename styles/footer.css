@@ -1,0 +1,80 @@
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    z-index: 99;
+    opacity: 0.95;
+    width: 100%;
+    background-color: #fcfcfc;
+}
+
+.footer-list>li {
+    position: relative;
+    float: left;
+    width: 25%;
+    font-size: 0.16rem;
+    text-align: center;
+    padding-top: 0.66rem;
+}
+
+.footer-list>li>a{
+    text-decoration: none;
+    color: #848686;
+}
+
+.footer-list>li:before {
+    content: "";
+    width: 0.42rem;
+    height: 0.40rem;
+    display: block;
+    position: absolute;
+    top: 0.12rem;
+    left: 0.58rem;
+}
+
+.footer-list>li.tab-dynamic:before {
+
+    background: url("../images/footer/dynanmic.png") no-repeat;
+    background-size: 100% auto;
+
+}
+
+.footer-list>li.tab-music:before {
+    background: url("../images/footer/music.png") no-repeat;
+    background-size: 100% auto;
+}
+.footer-list>li.tab-channel:before {
+    background: url("../images/footer/channel.png") no-repeat;
+    background-size: 100% auto;
+}
+.footer-list>li.tab-mine:before {
+    background: url("../images/footer/mine.png") no-repeat;
+    background-size: 100% auto;
+}
+
+.footer-list>li.active>a{
+    color: #5ec21e;
+}
+.footer-list>li.tab-dynamic.active:before {
+    background: url("../images/footer/dynanmic-active.png") no-repeat;
+    background-size: 100% auto;
+}
+
+.footer-list>li.tab-music.active:before {
+    background: url("../images/footer/music-active.png") no-repeat;
+    background-size: 100% auto;
+}
+.footer-list>li.tab-channel.active:before {
+    background: url("../images/footer/channel-active.png") no-repeat;
+    background-size: 100% auto;
+}
+.footer-list>li.tab-mine.active:before {
+    background: url("../images/footer/mine-avtive.png") no-repeat;
+    background-size: 100% auto;
+}
+
+.footer-list>li .icon>img {
+    display: block;
+    width: 100%;
+}

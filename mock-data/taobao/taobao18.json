@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "生活服务1",
+      "images": [
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png"
+      ]
+    },
+    {
+      "groupTitle": "生活服务2",
+      "images": [
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png"
+      ]
+    },
+    {
+      "groupTitle": "生活服务3",
+      "images": [
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png",
+        "../images/taobao/image18.png"
+      ]
+    }
+  ]
+}

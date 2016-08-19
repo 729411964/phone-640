@@ -1,0 +1,57 @@
+.content .title {
+    background-color: #f6f6f6;
+    font-size: 0.26rem;
+    line-height: 0.8rem;
+    padding-left: 0.3rem;
+}
+.content .list {
+    font-size: 0.28rem;
+    line-height: 1rem;
+    margin-left: 0.3rem;
+
+}
+
+.content .list>li {
+    position: relative;
+}
+.content .list>li:after {
+    position: absolute;
+    right: 0.3rem;
+    top: 0.38rem;
+    width: 0.16rem;
+    height: 0.26rem;
+    content: "";
+    display: block;
+    background:  url("../images/settings/right.png");
+    background-size: 100% auto;
+}
+
+.content .name {
+    font-size: 0.28rem;
+    color: #333333;
+    text-align: center;
+    line-height: 0.98rem;
+    position: relative;
+}
+
+.content .name:before {
+    position: absolute;
+    left: 0.4rem;
+    top: 0.3rem;
+    width: 0.25rem;
+    height: 0.47rem;
+    content: "";
+    display: block;
+    background:  url("../images/settings/left.png");
+    background-size: 100% auto;
+}
+.content .setting {
+    color: #979797;
+
+}
+
+.content .setting .space {
+    width: 100%;
+    height: 0px;
+    border-bottom: 1px solid #c8c7cc;
+}

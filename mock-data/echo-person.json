@@ -1,0 +1,62 @@
+{
+  "list": [
+    {
+      "src": "../images/echo-person/person1.png",
+      "name": "惟安娜-Vienna-",
+      "care": "308383",
+      "intro": "由Handlebars生成",
+      "musicList": [
+        {
+          "musicSrc": "../images/echo-person/image1.png",
+          "musicIntro": "Jay《夜曲》完全改编英文",
+          "musicName": "歌名: Not a sad song",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "282845"
+        },
+        {
+          "musicSrc": "../images/echo-person/image2.png",
+          "musicIntro": "原创英翻改词《褐色毛衣》",
+          "musicName": "歌词在后面哈",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "21572"
+        },
+        {
+          "musicSrc": "../images/echo-person/image3.png",
+          "musicIntro": "Distance-惟安娜（Vienna）",
+          "musicName": "周杰伦《安静》英文填词翻唱",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "7937"
+        }
+      ]
+    },
+    {
+      "src": "../images/echo-person/person1.png",
+      "name": "惟安娜-Vienna-",
+      "care": "308383",
+      "intro": "由Handlebars生成",
+      "musicList": [
+        {
+          "musicSrc": "../images/echo-person/image1.png",
+          "musicIntro": "Jay《夜曲》完全改编英文",
+          "musicName": "歌名: Not a sad song",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "282845"
+        },
+        {
+          "musicSrc": "../images/echo-person/image2.png",
+          "musicIntro": "原创英翻改词《褐色毛衣》",
+          "musicName": "歌词在后面哈",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "21572"
+        },
+        {
+          "musicSrc": "../images/echo-person/image3.png",
+          "musicIntro": "Distance-惟安娜（Vienna）",
+          "musicName": "周杰伦《安静》英文填词翻唱",
+          "heartSrc": "../images/echo-person/heart.png",
+          "num": "7937"
+        }
+      ]
+    }
+  ]
+}

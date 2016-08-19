@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "家电办公1",
+      "images": [
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png"
+      ]
+    },
+    {
+      "groupTitle": "家电办公2",
+      "images": [
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png"
+      ]
+    },
+    {
+      "groupTitle": "家电办公3",
+      "images": [
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png",
+        "../images/taobao/image11.png"
+      ]
+    }
+  ]
+}

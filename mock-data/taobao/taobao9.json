@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "珠宝配饰1",
+      "images": [
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png"
+      ]
+    },
+    {
+      "groupTitle": "珠宝配饰2",
+      "images": [
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png"
+      ]
+    },
+    {
+      "groupTitle": "珠宝配饰3",
+      "images": [
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png",
+        "../images/taobao/image9.png"
+      ]
+    }
+  ]
+}

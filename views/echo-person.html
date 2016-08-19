@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>echo-person</title>
+    <meta name="viewport" content="width=device-width,initial-scale=1">
+    <script src="../scripts/init-base-font-size.js"></script>
+    <link rel="stylesheet" href="../styles/common.css">
+    <link rel="stylesheet" href="../styles/footer.css">
+    <link rel="stylesheet" href="../styles/echo-person.css">
+</head>
+<body>
+<div class="shortcut">
+    <ul class="shortcut-list clearfix">
+        <li>推荐</li>
+        <li>热门</li>
+        <li class="active">人</li>
+    </ul>
+</div>
+<div class="content">
+
+    <ul class="content-list">
+        <script id="list-template" type="text/x-handlebars-template">
+            {{#each list}}
+            <li>
+                <div class="person-title clearfix">
+                    <div class="person-title-icon"><img src={{src}}></div>
+                    <div class="person-name">{{name}}</div>
+                    <div class="person-care">{{care}}人关注</div>
+                </div>
+                <div class="person-intro">{{intro}}</div>
+                <ul class="music-list">
+                    {{#each musicList}}
+                    <li class="clearfix">
+                        <div class="music-icon"><img src={{musicSrc}}></div>
+                        <div class="music-text">
+                            <div class="music-intro">{{musicIntro}}</div>
+                            <div class="music-name">{{musicName}}</div>
+                        </div>
+                        <div class="music-like">
+                            <div class="music-heart"><img src={{heartSrc}}></div>
+                            <div class="music-num">{{num}}</div>
+                        </div>
+                    </li>
+                    <li class="spacer"></li>
+                    {{/each}}
+                </ul>
+            </li>
+            {{/each}}
+        </script>
+    </ul>
+
+</div>
+<div class="footer">
+    <ul class="footer-list clearfix">
+        <li class="tab-dynamic">
+            <a href="#" class="text">动态</a>
+        </li>
+        <li class="tab-music active">
+            <a href="#" class="text">回声</a>
+        </li>
+        <li class="tab-channel">
+            <a href="#" class="text">频道</a>
+        </li>
+        <li class="tab-mine">
+            <a href="#" class="text">我的</a>
+        </li>
+    </ul>
+
+</div>
+<script src="../scripts/jquery-1.9.1.min.js"></script>
+<script src="../scripts/footer.js"></script>
+<script src="../scripts/handlebars/handlebars.js"></script>
+<script src="../scripts/handlebars-helper.js"></script>
+<script src="../scripts/echo-person.js"></script>
+</body>
+</html>

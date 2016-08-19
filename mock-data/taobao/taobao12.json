@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "美食茶酒1",
+      "images": [
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png"
+      ]
+    },
+    {
+      "groupTitle": "美食茶酒2",
+      "images": [
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png"
+      ]
+    },
+    {
+      "groupTitle": "美食茶酒3",
+      "images": [
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png",
+        "../images/taobao/image12.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "护肤彩妆1",
+      "images": [
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png"
+      ]
+    },
+    {
+      "groupTitle": "护肤彩妆2",
+      "images": [
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png"
+      ]
+    },
+    {
+      "groupTitle": "护肤彩妆3",
+      "images": [
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png",
+        "../images/taobao/image13.png"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "动漫游戏1",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    },
+    {
+      "groupTitle": "动漫游戏2",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    },
+    {
+      "groupTitle": "动漫游戏3",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    }
+  ]
+}

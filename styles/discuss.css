@@ -1,0 +1,145 @@
+.shortcut .title{
+    font-size: 0.26rem;
+    line-height: 0.86rem;
+    text-align: center;
+    position: relative;
+    border-bottom: 2px solid #e0e0e0;
+    color: #797979;
+}
+
+.shortcut .left {
+    position: absolute;
+    left: 0.27rem;
+    top: 0.16rem;
+    width: .25rem;
+    height: .46rem;
+    background: url("../images/discuss/left.png");
+    background-size: 100% auto;
+
+}
+
+.shortcut .right {
+    position: absolute;
+    top: .12rem;
+    right: .16rem;
+    width: .61rem;
+    height: .61rem;
+    background: url("../images/discuss/right.png");
+    background-size: 100% auto;
+
+}
+
+.discuss-area {
+    margin-top: .07rem;
+    border-top: .3rem solid #e0e0e0;
+    padding-top: .28rem;
+}
+
+.discuss-area .discuss-num {
+    font-size: .3rem;
+    margin-left: .3rem;
+    color: #9a9a9a;
+}
+
+.discuss-area .list {
+    padding-left: .4rem;
+    padding-right: .4rem;
+}
+
+.discuss-area .list>li {
+    height: 1.45rem;
+    border-bottom: 1px solid #e0e0e0;
+    padding-top: .28rem;
+}
+
+.discuss-area .list .icon {
+    width: 0.56rem;
+    height: 0.57rem;
+    float: left;
+    margin-right: .18rem;
+}
+
+.discuss-area .list .icon>img {
+    display: block;
+    width: 100%;
+}
+
+.discuss-area .list .discuss {
+    float: left;
+    font-size: .24rem;
+}
+
+.discuss-area .list .discuss .name {
+    margin-bottom: .22rem;
+    color: #000000;
+}
+
+
+.discuss-area .list .discuss .text {
+    width: 11em;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+    float: left;
+    color: #717171;
+}
+
+.discuss-area .list .discuss .time {
+    float: left;
+    color: #dbdcde;
+    font-size: .18rem;
+    margin-top: 0.04rem;
+    margin-left: 0.1rem;
+}
+
+.discuss-area .list .support {
+    float: right;
+    position: relative;
+    font-size: 0.16rem;
+    margin-top: 0.28rem;
+}
+
+.discuss-area .list .support:before {
+    position: absolute;
+    left: -.3rem;
+    top: -0.04rem;
+    content: "";
+    display: block;
+    width: .21rem;
+    height: .24rem;
+    background: url("../images/discuss/support-icon.png");
+    background-size: 100% auto;
+}
+
+.discuss-area  .more {
+    font-size: .22rem;
+    text-align: center;
+    margin-top: .5rem;
+    margin-bottom: .28rem;
+    color: #9c9c9c;
+}
+
+ .comment {
+    background-color: #ededed;
+    padding: 0.08rem 0.14rem;
+}
+
+ .comment>input {
+     height: .72rem;
+     font-size: 0.26rem;
+     border-radius: 5px;
+ }
+
+ .comment>input[type=text]{
+     color: #c7c7cd;
+     padding-left: 0.11rem;
+     float: left;
+     width: 77%;
+ }
+
+ .comment>input[type=button]{
+     background-color: #5fd059;
+     color: #ffffff;
+     float: right;
+     width: 20%;
+ }

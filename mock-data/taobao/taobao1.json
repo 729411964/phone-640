@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "热门搜索1",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    },
+    {
+      "groupTitle": "热门搜索2",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    },
+    {
+      "groupTitle": "热门搜索3",
+      "images": [
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png",
+        "../images/taobao/image1.png"
+      ]
+    }
+  ]
+}

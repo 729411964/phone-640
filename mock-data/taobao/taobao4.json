@@ -1,0 +1,55 @@
+{
+  "product": [
+    {
+      "groupTitle": "时尚鞋靴1",
+      "images": [
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png"
+      ]
+    },
+    {
+      "groupTitle": "时尚鞋靴2",
+      "images": [
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png"
+      ]
+    },
+    {
+      "groupTitle": "时尚鞋靴3",
+      "images": [
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png",
+        "../images/taobao/image4.png"
+      ]
+    }
+  ]
+}
